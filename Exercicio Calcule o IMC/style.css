@@ -1,0 +1,35 @@
+#p1 {
+	margin-top: 1.2%;
+	font-weight: bold;
+}
+	
+label {
+	color: white;
+}
+
+td, tr {
+	text-align: center;
+}
+
+.blueLabel {
+	color: RoyalBlue;
+	text-align: center;
+}
+.categoria {
+	background-color: #0066cc;
+}
+.abaixo {
+	background-color: #5ca938;
+}
+
+.normal {
+	background-color: #f2d502;
+}
+
+.pesos {
+	background-color: #5ca938;
+}
+
+.obesidadeG3 {
+	background-color: #ff3300;
+}
